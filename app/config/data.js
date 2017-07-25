@@ -2,8 +2,8 @@ export const me = {
   "gender": "male",
   "name": {
     "title": "mr",
-    "first": "lance",
-    "last": "thomas"
+    "first": "Admin",
+    "last": "Admin"
   },
   "location": {
     "street": "6942 first street",
@@ -11,7 +11,7 @@ export const me = {
     "state": "new hampshire",
     "postcode": 30411
   },
-  "email": "lance.thomas@example.com",
+  "email": "Admin@example.com",
   "login": {
     "username": "organicmouse687",
     "password": "frodo1",
@@ -29,9 +29,9 @@ export const me = {
     "value": "408-64-0336"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    "large": "https://www.shareicon.net/download/2016/05/29/772558_user_512x512.png",
+    "medium": "https://www.shareicon.net/download/2016/05/29/772558_user_512x512.png",
+    "thumbnail": "https://www.shareicon.net/download/2016/05/29/772558_user_512x512.png"
   },
   "nat": "US"
 };
